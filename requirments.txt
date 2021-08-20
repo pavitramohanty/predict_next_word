@@ -1,5 +1,5 @@
 python==3.8.5
 gunicorn
 flask
-tensorflow
+tensorflow=2.6.0
 keras
